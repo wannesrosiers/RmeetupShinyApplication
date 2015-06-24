@@ -1,7 +1,7 @@
 # RmeetupShinyApplication
 This is the final application presented at the RBelgium meetup (23 june 2015)
 
-A general shiny application consists of 3 files: global.R, server.R and ui.R which should all be contained in the same directory.
+A general shiny application consists of 3 files: global.R, server.R and ui.R which should all be contained in the same directory.  My shiny application is build using shiny 0.11.1.
 
 global.r: start up file.
 
